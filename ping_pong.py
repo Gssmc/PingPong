@@ -1,6 +1,5 @@
 # Ping-Pong game with turtle module.
-# Done by Sri Manikanta Palakollu.
-# Version - 3.7.0
+#Developed by Gokul Sivakumar
 
 import turtle as t
 import os
